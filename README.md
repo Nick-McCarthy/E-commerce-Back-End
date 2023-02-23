@@ -12,7 +12,11 @@
  - [Test](#test) 
  - [Questions](#questions) 
  ## Installation 
- requires node, inquirer 8.2.4, and mysql2
+   Dependencies:
+    dotenv: "^8.2.0"
+    express: "^4.17.1"
+    mysql2: "^2.1.0"
+    sequelize: "^5.21.7"
  ## Usage 
  Can test routes in Insomnia
  <br>
