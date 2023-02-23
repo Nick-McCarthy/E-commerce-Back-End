@@ -18,7 +18,7 @@
  <br>
  caption: Example Get Routes in Insomnia
 <br>
-![<img src="insomnia.jpg" width="250"/>](images/insomnia.jpg)
+![<img src="insomnia.PNG" width="250"/>](images/insomnia.PNG)
 <br>
 
 
